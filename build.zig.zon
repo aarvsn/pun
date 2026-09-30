@@ -1,0 +1,16 @@
+.{
+    .name = .pun,
+    .version = "0.7.0",
+    .minimum_zig_version = "0.14.0",
+    .fingerprint = 0x53f270aed2de721c,
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "plugins",
+        "README.md",
+        "ARCHITECTURE.md",
+        "LICENSE",
+    },
+    .dependencies = .{},
+}
